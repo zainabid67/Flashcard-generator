@@ -32,8 +32,8 @@ pip install nltk
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/smart-study-note-converter.git
-   cd smart-study-note-converter
+   git clone https://github.com/zainabid67/Flashcard-generator.git
+   cd Flashcard-generator
    ```
 
 2. **Add your study materials:**
